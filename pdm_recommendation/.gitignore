@@ -45,13 +45,10 @@ dist/
 *.egg-info/
 
 # Dataset besar (opsional)
-
-data/processed/*.parquet
+# data/processed/*.parquet
 
 # Model files
-
-models/*.npy
+# models/*.npy
 
 # Evaluation
-
-models/evaluation_results.csv
+# models/evaluation_results.csv
